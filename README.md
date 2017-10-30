@@ -1,2 +1,2 @@
 # hello-world
-test repository
+This is just a playground for general git related tests.
